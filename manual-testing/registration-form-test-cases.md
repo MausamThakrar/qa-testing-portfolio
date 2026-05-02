@@ -70,7 +70,7 @@ Not executed
 
 ### Expected Result
 
-Account should not be created, and a validation message should be displayed for the email field.
+Account should not be created and a validation message should be displayed for the email field.
 
 ### Actual Result
 
@@ -108,7 +108,7 @@ Not executed
 
 ### Expected Result
 
-Account should not be created, and a validation message should be displayed for the confirm password field.
+Account should not be created and a validation message should be displayed for the confirm password field.
 
 ### Actual Result
 
