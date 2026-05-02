@@ -46,9 +46,9 @@ Not executed
 
 ## TC_002: Registration with Empty Email Field
 
-**Scenario ID:** TS_003  
-**Type:** Empty Field  
-**Priority:** High  
+**Scenario ID:** TS_002
+**Type:** Empty Field
+**Priority:** High
 **Preconditions:** User is on the registration page.
 
 ### Test Data
